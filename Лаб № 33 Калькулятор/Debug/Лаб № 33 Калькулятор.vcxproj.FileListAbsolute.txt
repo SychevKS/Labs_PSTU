@@ -1,0 +1,5 @@
+C:\Users\79822\source\repos\Лаб № 33 Калькулятор\Debug\Лаб № 33 Калькулятор.vcxprojAssemblyReference.cache
+C:\Users\79822\source\repos\Лаб № 33 Калькулятор\Debug\Лаб33Калькулятор.MyForm.resources
+C:\Users\79822\source\repos\Лаб № 33 Калькулятор\Debug\Лаб № 33 Калькулятор.vcxproj.GenerateResource.cache
+C:\Users\79822\source\repos\Лаб № 33 Калькулятор\Debug\Лаб № 33 Калькулятор.exe
+C:\Users\79822\source\repos\Лаб № 33 Калькулятор\Debug\Лаб № 33 Калькулятор.pdb
