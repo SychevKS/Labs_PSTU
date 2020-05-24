@@ -1,0 +1,2 @@
+C:\Users\79822\source\repos\Opengl Test\Debug\Opengl Test.exe
+C:\Users\79822\source\repos\Opengl Test\Debug\Opengl Test.pdb

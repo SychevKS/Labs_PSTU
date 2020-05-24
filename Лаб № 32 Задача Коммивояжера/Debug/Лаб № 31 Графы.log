@@ -1,0 +1,53 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Opengl Test.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lab31_Graf.cpp
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(493,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(493,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(496,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(497,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(517,38): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(517,22): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(520,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(200,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(192): message : во время компиляции функции-члена класс шаблон "int Graph<char>::Dijkstra(T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\79822\source\repos\Лаб № 31 Графы\Lab31_Graf.cpp(35): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<char>::Dijkstra(T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(46): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<char>"
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(211,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(226,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(232,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(94,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(93): message : во время компиляции функции-члена класс шаблон "int Graph<char>::GetVertPos(const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(164): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<char>::GetVertPos(const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(61): message : во время компиляции функции-члена класс шаблон "Graph<char>::Graph(void)"
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(48): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<char>::Graph(void)"
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(469,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(468): message : во время компиляции функции-члена класс шаблон "bool Graph<char>::allVisit(bool *)"
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(205): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<char>::allVisit(bool *)"
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(549,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(601): message : выполняется компиляция ссылки на экземпляр шаблон функции "void display<T>(void)"
+          with
+          [
+              T=char
+          ]
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(589): message : во время компиляции функции-члена класс шаблон "void Graph<char>::drawGraph(int,char **)"
+C:\Users\79822\source\repos\Лаб № 31 Графы\Lab31_Graf.cpp(36): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<char>::drawGraph(int,char **)"
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(550,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(557,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(558,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79822\source\repos\Лаб № 31 Графы\Graph.h(239): warning C4715: Graph<char>::Dijkstra: значение возвращается не при всех путях выполнения
+  Лаб № 31 Графы.vcxproj -> C:\Users\79822\source\repos\Лаб № 31 Графы\Debug\Лаб № 31 Графы.exe
